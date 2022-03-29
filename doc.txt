@@ -1,0 +1,7 @@
+fonts need
+PlayfairDisplay Italic
+PlayfairDisplay Regular
+PlayfairDisplay Black
+PlayfairDisplay Bold
+ubuntu light
+inconsolata Regular
